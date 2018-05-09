@@ -25,7 +25,7 @@ public class BibliotecaApp {
         System.out.println(
                 "name\n"+user.getName()+"\n"
                 +"email address\n"+user.getEmail()+"\n"
-                +"phone number\n" + user.getPhone()+"\n"
+                +"phone number\n" + user.getPhone()
         );
     }
 
